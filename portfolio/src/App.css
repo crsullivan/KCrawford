@@ -88,6 +88,12 @@
     text-indent: 2em;
   }
 
+  .third-arrow a {
+    margin-left: .25em !important;
+    margin-right: .25em !;
+  }
+  
+
 }
 
 @media only screen and (max-height: 500px) {
