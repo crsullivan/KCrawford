@@ -94,6 +94,8 @@ function App() {
         </div>
         <div className="third-arrow">
           <a href="#bottom" class="far fa-arrow-alt-circle-up fa-4x"></a>
+          <a class="fab fa-instagram fa-4x" target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/ecofriendlylifeaz/?hl=en"></a>
+          <a class="fab fa-linkedin-in fa-4x" target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/kelsey-crawford-0b77041a9/"></a>
         </div>
       </div>
     </div>
