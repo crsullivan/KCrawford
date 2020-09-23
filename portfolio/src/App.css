@@ -26,6 +26,8 @@
   
   .skill-list {
     font-size: 1.5em !important;
+    max-width: 80% !important;
+    margin: auto;
   }
 
   .about {
